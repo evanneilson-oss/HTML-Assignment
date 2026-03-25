@@ -1,20 +1,20 @@
-t<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Texas A&M University</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../style.css">
 </head>
 <body>
     <header>
         <h1>Texas A&M University</h1>
         <p>Aggies do it right!</p>
     </header>
-    <main>1
+    <main>
         <section>
             <h2><a href="old-new-traditions.html">Old and New Traditions Page</a></h2>
-            <p>Texas A&M University is a public research university in College Station, Texas. Founded in 1876, it is the flagship institution of the Texas A&M University System we have lost of great Traditions and culture!.</p>
+            <p>Texas A&M University is a public research university in College Station, Texas. Founded in 1876, it is the flagship institution of the Texas A&M University System we have lost of great [...] 
         </section>
         <section>
             <h2><a href="group-members.html">Group Members Page</a></h2>
