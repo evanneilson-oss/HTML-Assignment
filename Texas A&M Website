@@ -13,16 +13,12 @@
     </header>
     <main>
         <section>
-            <h2>About Texas A&M</h2>
+            <h2><a href="old-new-traditions.html">Old and New Traditions Page</a></h2>
             <p>Texas A&M University is a public research university in College Station, Texas. Founded in 1876, it is the flagship institution of the Texas A&M University System.</p>
         </section>
         <section>
-            <h2>Academics</h2>
+            <h2><a href="group-members.html">Group Members Page</a></h2>
             <p>Offering a wide range of undergraduate and graduate programs across various disciplines.</p>
-        </section>
-        <section>
-            <h2>Student Life</h2>
-            <p>Join the Aggie family and experience the traditions, sports, and community at Texas A&M.</p>
         </section>
     </main>
     <footer>
